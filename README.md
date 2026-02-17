@@ -12,6 +12,13 @@ A modern, responsive landing page for a dental clinic built with React and Tailw
 
 
 ### 📋 Overview
+
+<img width="1600" height="748" alt="image" src="https://github.com/user-attachments/assets/8bf43f6a-4d17-4599-9b0c-9110f85446dc" />
+<img width="1600" height="829" alt="image" src="https://github.com/user-attachments/assets/6e8e05ee-48ad-4a69-b253-1e5002eb8050" />
+<img width="1582" height="842" alt="image" src="https://github.com/user-attachments/assets/82532087-fc49-4942-b2f5-1dd2fc16ad3a" />
+
+
+
 A modern landing page for dental clinics with theme switching and WhatsApp integration.
 
 ### ✨ Features
